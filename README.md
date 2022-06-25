@@ -1,5 +1,5 @@
 # FogHud
- 
+ <img width="410" alt="image" src="https://i.imgur.com/PAjFIgE.png">
 # Features:
 
 * Money/bank money
