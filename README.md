@@ -1,5 +1,5 @@
 # FogHud
-https://i.imgur.com/PAjFIgE.png
+[Imgur](https://imgur.com/PAjFIgE)
  
 # Features:
 
