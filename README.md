@@ -1,6 +1,6 @@
 # FogHud
 
-<a href="[https://i.imgur.com/KuVzrAE.png](https://imgur.com/PAjFIgE)">Preview Resource</a>
+<a href="https://imgur.com/PAjFIgE">Preview Resource</a>
  
 # Features:
 
