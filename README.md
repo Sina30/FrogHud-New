@@ -1,6 +1,6 @@
 # FogHud
-https://imgur.com/PAjFIgE
-<img src="https://i.imgur.com/PAjFIgE" alt="Death UI">
+
+<a href="[https://i.imgur.com/KuVzrAE.png](https://imgur.com/PAjFIgE)">Preview Resource</a>
  
 # Features:
 
